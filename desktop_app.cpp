@@ -12,6 +12,7 @@ int main()
     cout << "\n\n\t\t\t*********** It's Amit copyright@2020 Production***********\t\t\t\n\n\n\n";
 
             cout << "Please enter the upper limit of the number of digit you want to enter";
+            //take the input
             cin >> upper_limit;
             if (!(int(upper_limit)))
             {
